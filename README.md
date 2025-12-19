@@ -10,6 +10,6 @@ Features:
 
 
 NOTICE:
-This game features 196 countries. The idea for this game is based on the JetPunk website and thus by the Countries of the world quiz on that website.
-This quiz (link below) features 196 countries which are also used in this game. Last update: 18/12/2025
+This game features 196 countries. The idea for this game is based on the JetPunk website and therefore by the 'Countries of the world' quiz on that website.
+The quiz from Jetpunk (link below) features 196 countries which are also used in this game. Last update: 18/12/2025
 Link: https://www.jetpunk.com/quizzes/how-many-countries-can-you-name
